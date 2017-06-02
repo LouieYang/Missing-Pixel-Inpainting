@@ -50,4 +50,4 @@ python inpainting --img_dir some-of-missing-pixel-image --model_version XXXX (wh
 ```
 
 # REFERENCE
-[1] [https://arxiv.org/pdf/1611.04481.pdf](paper)
+[1] [https://arxiv.org/pdf/1611.04481.pdf](https://arxiv.org/pdf/1611.04481.pdf)
